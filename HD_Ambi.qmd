@@ -1,0 +1,25 @@
+---
+title: "HD_ambi_mucor"
+format: html
+editor: visual
+bibliography: references.bib
+csl: expert-review-of-antiinfective-therapy.csl
+---
+
+# Abstract
+
+Introduction:
+
+Areas covered:
+
+Expert opionion:
+
+Plain language summary:
+
+# Introduction
+
+Invasive mucormycosis is a life-threatening fungal infection caused by organisms of the order Mucorales, most commonly species of *Rhizopus*, *Mucor*, and *Lichtheimia.* Once rare, the incidence of this opportunistic infection has increased over the past two decades, affecting primarily immunocompromised patients including those with hematologic malignancies, transplant recipients, and individuals with poorly controlled diabetes mellitus . The infection, characterized by aggressive angioinvasion with tissue necrosis, carries mortality rates of 40% to over 80% depending on the site of infection \[ \], timeliness of diagnosis and treatment, possibility for surgical resection of infected necrotic tissue, and host immune recovery. The iintial antifungal treatment of choice is intravenous liposomal amphotericin B (L-AMB)\[ \].
+
+Given the aggressive nature of mucormycosis and the relative resistance of Mucorales to antifungal agents compared with *Aspergillus* species *in vitro,* higher doses of liposomal amphotericin B (\>5 mg/kg per day) are often administered during the acute phase of infection to achieve rapid tissue loading of antifungal drug in hopes of slowing rissue invasion and fungal dissemination \[ \]. While some animal models have supported the concept of using higher L-AMB doses to achieve rapid therapeutic tissue concentrations, data from observational clinical studies and randomized trials are less conclusive reagarding the benefits of higher L-AMB for mucormycosis \[ \]. Reflecting this uncertainty, the Global European Confederation of Medical Mycology (ECMM) / Mycoses Study Group Education and Research Consortium (MSGRC) guidelines for mucormycosis recommend a range of initial treatment dosing for invasive mucormycosies with L-AMB from 5-10 mg/kg/day  {Cornely et al., 2019 #122988}.
+
+In this article, we review the preclinical and clinical evidence surrounding the use of  higher L-AMB doses for the treatment of invasive mucormycosis. We also provide recommendations for when higher dose L-AMB should not
