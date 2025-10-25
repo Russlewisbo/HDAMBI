@@ -2,19 +2,33 @@
 title: "HD_ambi_mucor"
 format: html
 editor: visual
+author:
+  - name: Russell E. Lewis
+    affiliations:
+      - name: University of Padua
+        department: Department of Molecular Medicine
+        address: via Gabelli 63
+        city: Padua
+        country: Italy
+        postal-code: 35121
+    email: russelledward.lewis@unipd.it
+    corresponding: false
+  - name: Dimitrios P. Kontoyiannis
+    affiliations:
+      - name: The University of Texas M.D. Anderson Cancer Center
+        department: Departmet of Infectious Diseases, Infection Control and Employee Health
+        address: 1515 Holcombe Boulevard
+        city: Houston, Texas
+        country: United States of American
+        postal-code: 77030
+    email: dkontoyi@mdanderson.org
+    corresponding: true
+abstract: |
+  Introduction, Areas covered:, Expert opionion:
+keywords: [Liposomal amphotericin B, invasive mucormycosis, pharmacokinetics/pharmacodynamics]
 bibliography: references.bib
-csl: expert-review-of-antiinfective-therapy.csl
+csl: expert-review-of-anti-infective-therapy.csl
 ---
-
-# Abstract
-
-Introduction:
-
-Areas covered:
-
-Expert opionion:
-
-Plain language summary:
 
 # Introduction
 
