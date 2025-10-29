@@ -85,6 +85,19 @@ This non-linear behaviour becomes more pronounced with further dose escalation. 
 
 # Clinical studies
 
+Several observational studies and two small randomized trials have evaluated
+
+::: {tbl-clinical}
+| Study design | L-AMB Dose | Outcomes | Reference |
+|------------------|------------------|------------------|------------------|
+| Prospective, multicenter pilot study; <br>n=40 patients;<br>most hematologic malignancy, 33% neutropenic | 10 mg/kg/day for median of 13.5 days (range 0-28) | Response rate (n=33 patients at week 4) <br>38% overall mortality at week 12 and 53% at week 24 <br> SeCr doubling in 40% of patients | [@lanternier2015b] |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+:::
+
 # Future implications
 
 # Plain language summary
