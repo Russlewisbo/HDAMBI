@@ -85,17 +85,19 @@ This non-linear behaviour becomes more pronounced with further dose escalation. 
 
 # Clinical studies
 
-Several observational studies and two small randomized trials have evaluated
+Several observational studies and two small randomized trials have evaluated clinical outcomes follwing administration of HD L-AMB @tbl-clinical.
 
-::: {tbl-clinical}
-| Study design | L-AMB Dose | Outcomes | Reference |
-|------------------|------------------|------------------|------------------|
-| Prospective, multicenter pilot study; <br>n=40 patients;<br>most hematologic malignancy, 33% neutropenic | 10 mg/kg/day for median of 13.5 days (range 0-28) | Response rate (n=33 patients at week 4) <br>38% overall mortality at week 12 and 53% at week 24 <br> SeCr doubling in 40% of patients | [@lanternier2015b] |
+::: {#tbl-clinical}
+| Author- year | Study design | L-AMB Treatment regimen | Outcomes |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| Lanternier et al 2015 [@lanternier2015b] | Prospective, multicenter pilot study; <br>n=40 patients;<br>most hematologic malignancy, 33% neutropenic | 10 mg/kg/day for median of 13.5 days (range 0-28) | Response rate (n=33 patients at week 4) <br>38% overall mortality at week 12 and 53% at week 24 <br> SeCr doubling in 40% of patients |
+| Valiante et al. [@valiante2023a] | Retrospective cohort study; <br> (n=67 adults with probable/proven mucormycosis <br> | L-AMB \< 6 mg/kg/dayvs. ≥ 6 mg/kg/day | 12-week mortality rate 49 vs. 50% <br> Similar rates of acute kidney injury (47% v.s 50%) |
+| Tashiro et al. [@tashiro2023b] | Retrospective multicenter nationwide cohort analysis <br> n=82 cases | L-AMB 5 mg/kg/day vs. ≥ 5 mg/kg/day |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+
+Clinical studies evaluting high-dose liposomal amphotericin B for mucormycosis
 :::
 
 # Future implications
