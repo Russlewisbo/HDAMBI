@@ -55,7 +55,7 @@ Studies using diabetic ketoacidosis and pulmonary mucormycosis infection models 
 Following intravenous administration, liposomal amphotericin B (L-AMB) maintains its physicochemical integrity over extended periods, resulting in prolonged residence time within the central compartment @fig-distribution.
 
 ::: {#fig-distribution}
-![](L-AMB_distr.png){fig-align="center"}
+![](L-AMB_distr.png){fig-align="center" width="800"}
 
 Pharmacokinetic model of liposomal amphotericin B. Following intravenous administration, liposomal amphotericin B distributes from the central compartment (1, plasma) to reticuloendothelial system organs including the liver, spleen, and bone marrow (compartment 2), and to kidney, lung and other peripheral tissues (compartment 3). Rate constants (*k*) indicate bidirectional transfer between compartments: *k12* and *k21* represent distribution and redistribution between plasma and reticuloendothelial organs; *k13* and *k31* between plasma and peripheral tissues; and *k23* and *k32* between reticuloendothelial organs and peripheral tissues. Drug elimination occurs from the central compartment via biliary and urinary excretion (dotted arrow). Figure adapted from Groll et al [@groll2019c].
 :::
@@ -91,11 +91,11 @@ Several observational studies and two small randomized trials have evaluated cli
 | Author- year | Study design | L-AMB Treatment regimen | Outcomes |
 |:-----------------|:-----------------|:-----------------|:-----------------|
 | Lanternier et al 2015 [@lanternier2015b] | Prospective, multicenter pilot study; <br>n=40 patients;<br>most hematologic malignancy, 33% neutropenic | 10 mg/kg/day for median of 13.5 days (range 0-28) | Response rate (n=33 patients at week 4) <br>38% overall mortality at week 12 and 53% at week 24 <br> SeCr doubling in 40% of patients |
-| Valiante et al. [@valiante2023a] | Retrospective cohort study; <br> (n=67 adults with probable/proven mucormycosis <br> | L-AMB \< 6 mg/kg/dayvs. ≥ 6 mg/kg/day | 12-week mortality rate 49 vs. 50% <br> Similar rates of acute kidney injury (47% v.s 50%) |
-| Tashiro et al. [@tashiro2023b] | Retrospective multicenter nationwide cohort analysis <br> n=82 cases | L-AMB 5 mg/kg/day vs. ≥ 5 mg/kg/day |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Valiante et al. 2023[@valiante2023a] | Retrospective cohort study; <br> (n=67 adults with probable/proven mucormycosis <br> | L-AMB \< 6 mg/kg/dayvs. ≥ 6 mg/kg/day | 12-week mortality rate 49 vs. 50% <br> Similar rates of acute kidney injury (47% v.s 50%) |
+| Tashiro et al. 2023[@tashiro2023b] | Retrospective multicenter nationwide cohort analysis <br> n=82 cases | L-AMB 5 mg/kg/day vs. ≥ 5 mg/kg/day | Survival did not differ between patients receiving liposomal amphotericin B at 5 mg/kg/d relative to those receiving \>5 mg/kg/d (P = .625). <br>Using Cox proportional hazards models and adjusting for confounders, the hazard ratio for the influence of \>5 mg/kg/d liposomal amphotericin B on 4-week survival was 0.86 (95% CI, 0.28–2.68; P = .796) compared with 5 mg/kg/d. |
+| Stover et al. 2024 [@stover2024] | Single-center case series | L-AMB mean 8.9 mg/kg/day for 11 days | Response rate 33% <br> one-third of patients developed doubling baseline serum creatine |
+| Jeong et al. 2019 [@jeong2019f] | Systematic review of 851 published cases | n=57 received high-dose L-AMB (6–15 mg/kg/day) | Compared with patients receiving 5 mg/kg/day of i.v. L-AmB, those who received higher doses had a higher 90-day mortality, although not statistically significant \[22/57 (38.6%) vs. 29/93 (31.2%); P = 0.352\]. In addition, renal toxicity was more common following administration of higher-dose i.v. L-AmB \[15/57 (26.3%) vs. 12/93 (12.9%); P = 0.038 |
+| Spellberg et al. |  |  |  |
 
 Clinical studies evaluting high-dose liposomal amphotericin B for mucormycosis
 :::
